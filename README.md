@@ -8,7 +8,7 @@
 
 ### 🕹️ PLAYER 1
 
-Senior AI Engineer in London. Day job: multi-agent systems and LLM evaluation for regulated industries. Night job: building apps people actually use.
+Senior AI Engineer in the UK. Day job: multi-agent systems and LLM evaluation for regulated industries. Night job: building cool tech until I get bored.
 
 ### 🗺️ SIDE QUESTS
 
@@ -16,8 +16,6 @@ Senior AI Engineer in London. Day job: multi-agent systems and LLM evaluation fo
 | --- | --- | --- |
 | 🕌 **Sukoon Life** | Islamic guidance app, answers grounded in verified sources with RAG. Co-founder and CTO. | **30k+ users** · iOS + Android |
 | ⚽ **Ballr** | Fixtures, team sheets and pay-first Stripe checkout for casual football groups. Co-founder. | **150+ players** · piloting in Glasgow |
-| 🔧 **Speedy Mechanic** | Final-year project: a serious game that teaches vehicle diagnostics. | TypeScript · gamification |
-| 📖 **Daily Tafsir** | Small Python tool that sends a daily Qur'an passage with commentary. | Python |
 
 <p align="center">
   <img src="assets/hud.svg" alt="High scores" width="840">
@@ -36,12 +34,7 @@ Senior AI Engineer in London. Day job: multi-agent systems and LLM evaluation fo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### 📜 RULES I PLAY BY
 
-- Measure before you optimise.
-- AI drafts. Code and people decide.
-- Bigger model ≠ better model. Test it.
-- Production failures are your best test cases.
 
 ### ▶️ CONTINUE?
 
