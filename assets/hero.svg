@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" role="img" aria-label="Ibraheem Latif — AI Engineer">
 <defs>
-<style>text{font-family:"SF Mono",Menlo,Consolas,"Courier New",monospace;text-anchor:middle}.t{fill:#00ff41}</style>
+<style>text{font-family:"SF Mono",Menlo,Consolas,"Courier New",monospace;text-anchor:middle}.t{fill:#00ff41}.a{filter:url(#glow)}</style>
 <linearGradient id="st" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff41" stop-opacity="0.08"/><stop offset="1" stop-color="#00ff41" stop-opacity="1"/></linearGradient>
 <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0.9"/><stop offset="0.35" stop-color="#000" stop-opacity="0"/><stop offset="0.65" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.9"/></linearGradient>
 <filter id="glow"><feGaussianBlur stdDeviation="1.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="0.25" stop-color="#000" stop-opacity="0.85"/><stop offset="0.75" stop-color="#000" stop-opacity="0.85"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
 <clipPath id="clip"><rect width="840" height="240"/></clipPath>
 </defs>
 <rect width="840" height="240" fill="#000"/>
@@ -50,9 +51,13 @@
 <text font-size="11" fill="url(#st)"><tspan x="829" dy="0">ｲ</tspan><tspan x="829" dy="14">ﾖ</tspan><tspan x="829" dy="14">ﾑ</tspan><tspan x="829" dy="14">2</tspan><tspan x="829" dy="14">ｹ</tspan><tspan x="829" dy="14">5</tspan><tspan x="829" dy="14">4</tspan><tspan x="829" dy="14">@</tspan><tspan x="829" dy="14">ｺ</tspan><tspan x="829" dy="14">1</tspan><tspan x="829" dy="14">9</tspan><tspan x="829" dy="14">ﾔ</tspan><tspan x="829" dy="14">ｷ</tspan><tspan x="829" dy="14">ﾔ</tspan><tspan x="829" dy="14">ｾ</tspan><tspan x="829" dy="14" fill="#eaffea">ｷ</tspan><animateTransform attributeName="transform" type="translate" values="0,-224;0,254" dur="5.3s" begin="-7.5s" repeatCount="indefinite"/></text>
 </g>
 <rect width="840" height="240" fill="url(#fade)"/>
-<rect x="200" y="70" width="440" height="100" fill="#000" opacity="0.82"/>
-<rect x="200" y="70" width="440" height="100" fill="none" stroke="#00ff41" stroke-opacity="0.35"/>
-<text x="420" y="104" class="t" font-size="28" font-weight="700" filter="url(#glow)">IBRAHEEM LATIF</text>
-<text x="420" y="130" class="t" font-size="12" opacity="0.85" letter-spacing="3">AI ENGINEER  ·  AGENTS  ·  EVALS</text>
-<text x="420" y="154" class="t" font-size="11" opacity="0.6">&gt; online<tspan>_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+<rect y="56" width="840" height="130" fill="url(#band)"/>
+<text x="420" y="86" class="t a" font-size="12.4" xml:space="preserve" opacity="0">██╗██████╗ ██████╗  █████╗ ██╗  ██╗███████╗███████╗███╗   ███╗    ██╗      █████╗ ████████╗██╗███████╗<animate attributeName="opacity" values="0;1" begin="0.00s" dur="0.25s" fill="freeze"/></text>
+<text x="420" y="100" class="t a" font-size="12.4" xml:space="preserve" opacity="0">██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝██╔════╝████╗ ████║    ██║     ██╔══██╗╚══██╔══╝██║██╔════╝<animate attributeName="opacity" values="0;1" begin="0.15s" dur="0.25s" fill="freeze"/></text>
+<text x="420" y="114" class="t a" font-size="12.4" xml:space="preserve" opacity="0">██║██████╔╝██████╔╝███████║███████║█████╗  █████╗  ██╔████╔██║    ██║     ███████║   ██║   ██║█████╗<animate attributeName="opacity" values="0;1" begin="0.30s" dur="0.25s" fill="freeze"/></text>
+<text x="420" y="128" class="t a" font-size="12.4" xml:space="preserve" opacity="0">██║██╔══██╗██╔══██╗██╔══██║██╔══██║██╔══╝  ██╔══╝  ██║╚██╔╝██║    ██║     ██╔══██║   ██║   ██║██╔══╝<animate attributeName="opacity" values="0;1" begin="0.45s" dur="0.25s" fill="freeze"/></text>
+<text x="420" y="142" class="t a" font-size="12.4" xml:space="preserve" opacity="0">██║██████╔╝██║  ██║██║  ██║██║  ██║███████╗███████╗██║ ╚═╝ ██║    ███████╗██║  ██║   ██║   ██║██║<animate attributeName="opacity" values="0;1" begin="0.60s" dur="0.25s" fill="freeze"/></text>
+<text x="420" y="156" class="t a" font-size="12.4" xml:space="preserve" opacity="0">╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝<animate attributeName="opacity" values="0;1" begin="0.75s" dur="0.25s" fill="freeze"/></text>
+<text x="420" y="178" class="t" font-size="11" opacity="0.85" letter-spacing="4">AI ENGINEER  ·  AGENTS  ·  EVALS</text>
+<text x="420" y="198" class="t" font-size="11" opacity="0.6">&gt; online<tspan>_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
 </svg>
