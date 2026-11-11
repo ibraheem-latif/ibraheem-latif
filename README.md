@@ -8,7 +8,7 @@
 
 ### `$ whoami`
 
-Senior AI Engineer in the UK. Day job: multi-agent systems and LLM evaluation for regulated industries. Night job: building cool tech until I get bored.
+AI Engineer in the UK. Day job: multi-agent systems and LLM evaluation for regulated industries. Night job: building cool tech until I get bored.
 
 ### `$ ls ~/projects`
 
